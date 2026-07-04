@@ -10,9 +10,8 @@
 
 - 🎓 **Computer Science Engineering Student** (3rd year)
 - 💻 Aspiring **Full-Stack Developer** focused on building real-world, end-to-end applications
-- 🛠️ Just shipped my first solo project — a **URL shortener** built with Node.js, Express & MySQL, deployed live
 - 📚 Currently sharpening **DSA, Backend Development & System Design** fundamentals
-- 🧠 Tech Stack: **C • C++ • Java • Python • JavaScript**
+- 🧠 Languages: **C • C++ • Java • Python • JavaScript**
 - 🤝 Open to **internships & collaborative projects**
 - ⚡ Strong interest in **problem-solving** and building things that actually work end-to-end
 
