@@ -35,13 +35,6 @@ A full-stack URL shortener — Node.js, Express, and MySQL on the backend, deplo
 
 **🔗 Live:** [url-shortener-bf7a.onrender.com](https://url-shortener-bf7a.onrender.com)
 
-<br>
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=IshwariGosavi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-</p>
 
 <br>
 
