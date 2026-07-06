@@ -6,7 +6,7 @@
 
 <br>
 
-## 🧭 About Me
+## About Me
 
 - 🎓 **Computer Science Engineering Student** (3rd year)
 - 💻 Aspiring **Full-Stack Developer** focused on building real-world, end-to-end applications
