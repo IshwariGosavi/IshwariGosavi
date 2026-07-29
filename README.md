@@ -8,12 +8,12 @@
 
 ## About Me
 
-- 🎓 **Computer Science Engineering Student** (3rd year)
-- 💻 Aspiring **Full-Stack Developer** focused on building real-world, end-to-end applications
-- 📚 Currently sharpening **DSA, Backend Development & System Design** fundamentals
-- 🧠 Languages: **C • C++ • Java • Python • JavaScript**
-- 🤝 Open to **internships & collaborative projects**
-- ⚡ Strong interest in **problem-solving** and building things that actually work end-to-end
+-  **Computer Science Engineering Student** (3rd year)
+-  Aspiring **Full-Stack Developer** focused on building real-world, end-to-end applications
+-  Currently sharpening **DSA, Backend Development & System Design** fundamentals
+-  Languages: **C • C++ • Java • Python • JavaScript**
+-  Open to **internships & collaborative projects**
+-  Strong interest in **problem-solving** and building things that actually work end-to-end
 
 <br>
 
@@ -40,17 +40,17 @@ A full-stack URL shortener — Node.js, Express, and MySQL on the backend, deplo
 
 ## 🎯 Career Goals
 
-- 💼 Seeking **Software Development Internships**
-- 🚀 Aiming to grow into a strong **Full-Stack Developer** who builds things end-to-end, not just in theory
+-  Seeking **Software Development Internships**
+-  Aiming to grow into a strong **Full-Stack Developer** who builds things end-to-end, not just in theory
 
 <br>
 
-## ✅ Current Focus
+##  Current Focus
 
-- ✔️ Data Structures & Algorithms
-- ✔️ Backend Development (Node.js, Express, MySQL)
-- ✔️ System Design fundamentals
-- ✔️ Building and deploying real projects, solo
+-  Data Structures & Algorithms
+-  Backend Development (Node.js, Express, MySQL)
+-  System Design fundamentals
+-  Building and deploying real projects, solo
 
 <br>
 
