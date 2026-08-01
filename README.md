@@ -25,19 +25,6 @@
 
 <br>
 
-## 📌 Featured Build
-
-<a href="https://github.com/IshwariGosavi/url-shortener">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=IshwariGosavi&repo=url-shortener&theme=tokyonight&hide_border=true" />
-</a>
-
-A full-stack URL shortener — Node.js, Express, and MySQL on the backend, deployed live on Render with a MySQL database hosted on Railway. Built solo, start to finish, including debugging real deployment issues.
-
-**🔗 Live:** [url-shortener-bf7a.onrender.com](https://url-shortener-bf7a.onrender.com)
-
-
-<br>
-
 ## 🎯 Career Goals
 
 -  Seeking **Software Development Internships**
