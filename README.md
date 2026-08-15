@@ -26,16 +26,19 @@
 ### ♟️ [Chess Engine AI](https://github.com/IshwariGosavi/YOUR-REPO-NAME)
 An AI-powered chess engine built with **Python, python-chess & Flask**, featuring minimax search with alpha-beta pruning and piece-square table evaluation, wrapped in a full playable UI using chessboard.js.
 `Python` `Flask` `python-chess` `chessboard.js`
+<br>
 🔗 Live Demo: https://chess-engine-wwmm.onrender.com
 
 ### ✋ [Air Canvas](https://github.com/IshwariGosavi/YOUR-REPO-NAME)
 A gesture-controlled virtual drawing app using **MediaPipe Hands** for real-time hand tracking, letting you draw in thin air using just your webcam.
 `Python` `MediaPipe` `HTML5 Canvas` `JavaScript`
+<br>
 🔗 Live Demo: [air-cnvs.netlify.app](https://air-cnvs.netlify.app)
 
 ### 🔗 [URL Shortener](https://github.com/IshwariGosavi/YOUR-REPO-NAME)
 A full-stack URL shortening service built with **Node.js, Express & MySQL**, generating unique short codes with nanoid and persisting data with a Railway-hosted database.
 `Node.js` `Express` `MySQL` `nanoid`
+<br>
 🔗 Live Demo: https://url-shortener-bf7a.onrender.com
 
 <br>
@@ -61,7 +64,7 @@ A full-stack URL shortening service built with **Node.js, Express & MySQL**, gen
 - ⚙️ Backend Development (Node.js, Express, MySQL)
 - 🏗️ System Design fundamentals
 - 👁️ Computer Vision & AI mini-projects (MediaPipe, game AI)
-- 🚢 Building and deploying real projects, solo
+- 🚢 Building and deploying real projects
 
 <br>
 
