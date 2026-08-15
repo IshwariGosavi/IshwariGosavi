@@ -36,7 +36,7 @@ A gesture-controlled virtual drawing app using **MediaPipe Hands** for real-time
 ### 🔗 [URL Shortener](https://github.com/IshwariGosavi/YOUR-REPO-NAME)
 A full-stack URL shortening service built with **Node.js, Express & MySQL**, generating unique short codes with nanoid and persisting data with a Railway-hosted database.
 `Node.js` `Express` `MySQL` `nanoid`
-🔗 Live Demo:  url-shortener-bf7a.onrender.com
+🔗 Live Demo: https://url-shortener-bf7a.onrender.com
 
 <br>
 
