@@ -59,7 +59,7 @@ A full-stack URL shortening service built with **Node.js, Express & MySQL**, gen
 
 <br>
 
-## 📌 Current Focus
+## 📌 Current Focus:
 - 🧩 Data Structures & Algorithms
 - ⚙️ Backend Development (Node.js, Express, MySQL)
 - 🏗️ System Design fundamentals
