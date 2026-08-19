@@ -68,7 +68,7 @@ A full-stack URL shortening service built with **Node.js, Express & MySQL**, gen
 
 <br>
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me:
 <p align="center">
 <a href="mailto:ishwarigosavi19@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
