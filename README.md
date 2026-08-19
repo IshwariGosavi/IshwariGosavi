@@ -53,7 +53,7 @@ A full-stack URL shortening service built with **Node.js, Express & MySQL**, gen
 
 <br>
 
-## 🎯 Career Goals
+## 🎯 Career Goals:
 - 🎯 Seeking **Software Development Internships**
 - 🌱 Aiming to grow into a strong **Full-Stack Developer** who builds things end-to-end, not just in theory
 
