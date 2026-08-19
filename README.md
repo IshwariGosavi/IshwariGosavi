@@ -43,7 +43,7 @@ A full-stack URL shortening service built with **Node.js, Express & MySQL**, gen
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=IshwariGosavi&show_icons=true&theme=default&hide_border=true" />
 </p>
