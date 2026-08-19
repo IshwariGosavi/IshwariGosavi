@@ -4,7 +4,7 @@
 
 <br>
 
-## About Me
+## About Me:
 - 🎓 **Computer Science Engineering Student** (3rd year, DES Pune University)
 - 💻 Aspiring **Full-Stack Developer** focused on building real-world, end-to-end applications
 - 🔍 Currently sharpening **DSA, Backend Development, System Design & AI/CV fundamentals**
@@ -14,14 +14,14 @@
 
 <br>
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack:
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,nodejs,express,mysql,flask,html,css,git,github,vscode,react,tailwind" />
 </p>
 
 <br>
 
-## 🚀 Projects
+## 🚀 Projects:
 
 ### ♟️ [Chess Engine AI](https://github.com/IshwariGosavi/YOUR-REPO-NAME)
 An AI-powered chess engine built with **Python, python-chess & Flask**, featuring minimax search with alpha-beta pruning and piece-square table evaluation, wrapped in a full playable UI using chessboard.js.
