@@ -44,17 +44,17 @@ A full-stack URL shortening service built with **Node.js, Express & MySQL**, gen
 <br>
 
 ## 🎯 Career Goals:
-- 🎯 Seeking **Software Development Internships**
-- 🌱 Aiming to grow into a strong **Full-Stack Developer** who builds things end-to-end, not just in theory
+-  Seeking **Software Development Internships**
+-  Aiming to grow into a strong **Full-Stack Developer** who builds things end-to-end, not just in theory
 
 <br>
 
 ## 📌 Current Focus:
-- 🧩 Data Structures & Algorithms
-- ⚙️ Backend Development (Node.js, Express, MySQL)
-- 🏗️ System Design fundamentals
-- 👁️ Computer Vision & AI mini-projects (MediaPipe, game AI)
-- 🚢 Building and deploying real projects
+-  Data Structures & Algorithms
+-  Backend Development (Node.js, Express, MySQL)
+-  System Design fundamentals
+-  Computer Vision & AI mini-projects (MediaPipe, game AI)
+-  Building and deploying real projects
 
 <br>
 
