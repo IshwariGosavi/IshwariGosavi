@@ -74,5 +74,5 @@ A full-stack URL shortening service built with **Node.js, Express & MySQL**, gen
 <br>
 
 <div align="center">
-<i>Currently building things one commit at a time 🚀</i>
+<i>Building things one commit at a time 🚀</i>
 </div>
