@@ -5,12 +5,12 @@
 <br>
 
 ## About Me:
-- 🎓 **Computer Science Engineering Student** (3rd year, DES Pune University)
-- 💻 Aspiring **Full-Stack Developer** focused on building real-world, end-to-end applications
-- 🔍 Currently sharpening **DSA, Backend Development, System Design & AI/CV fundamentals**
-- 🗣️ Languages: **C • C++ • Java • Python • JavaScript**
-- 🤝 Open to **internships & collaborative projects**
-- 🧠 Strong interest in **problem-solving** and building things that actually work end-to-end
+-  **Computer Science Engineering Student** (3rd year, DES Pune University)
+-  Aspiring **Full-Stack Developer** focused on building real-world, end-to-end applications
+-  Currently sharpening **DSA, Backend Development, System Design & AI/CV fundamentals**
+-  Languages: **C • C++ • Java • Python • JavaScript**
+-  Open to **internships & collaborative projects**
+-  Strong interest in **problem-solving** and building things that actually work end-to-end
 
 <br>
 
