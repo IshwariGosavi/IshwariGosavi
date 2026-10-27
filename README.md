@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ishwari+%F0%9F%91%8B;CS+Engineering+Student;Full-Stack+Developer+in+the+Making" alt="Typing SVG" />
 </div>
-
+https://github.com/IshwariGosavi/IshwariGosavi/pulse
 <br>
 
 ## About Me:
@@ -10,7 +10,7 @@
 -  Currently sharpening **DSA, Backend Development, System Design & AI/CV fundamentals**
 -  Languages: **C • C++ • Java • Python • JavaScript**
 -  Open to **internships & collaborative projects**
--  Strong interest in **problem-solving** and building things that actually work end-to-end
+-  Strong interest in **problem-solving** and building things that work end-to-end
 
 <br>
 
